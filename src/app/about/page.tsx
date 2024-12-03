@@ -4,7 +4,7 @@ import { FaGithub } from "react-icons/fa";
 import { FaYoutube } from "react-icons/fa";
 import { FaFacebook } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
-import { Skills } from "../components/Skills";
+import { Skills } from "../Components/Skills";
 
 function About() {
     return (
